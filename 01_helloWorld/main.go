@@ -1,5 +1,5 @@
 package main
-
+//packages/variables/scope
 import (
 	"fmt" //file level scope
 	"github.com/udemyTraining/stringutil"
